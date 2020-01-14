@@ -1,0 +1,14 @@
+@import "C:\workspace\honeyWell\node_modules\bootstrap\dist\css\bootstrap.min.css";
+
+
+.space{
+    padding-left:1rem;
+}
+
+hr.style1{
+  
+    margin-top: -1rem;
+}
+.size p{
+    color:grey;
+}
